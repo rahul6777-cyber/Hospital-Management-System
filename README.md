@@ -1,5 +1,5 @@
 
-# Hospital-Management-System
+# Hospital-Management-System  🏥
 A SQL-based Hospital Management System project using MySQL with ER Diagram, Views, Triggers, Indexing, and Billing Analytics Dashboard.
 
 ## Features
@@ -25,14 +25,16 @@ A SQL-based Hospital Management System project using MySQL with ER Diagram, View
 - README.md
 
 ## ER Diagram
-https://github.com/rahul6777-cyber/Hospital-Management-System/blob/main/ER_Diagram.png
+![ER Diagram](https://github.com/rahul6777-cyber/Hospital-Management-System/raw/main/ER_Diagram.png)
 
 ## Dashboard
-https://github.com/rahul6777-cyber/Hospital-Management-System/blob/main/Dashboard.png
+![Dashboard](https://github.com/rahul6777-cyber/Hospital-Management-System/raw/main/Dashboard.png)
 
 ## SQL Screenshot
-https://github.com/rahul6777-cyber/Hospital-Management-System/blob/main/SQLscreenshort.png
+![SQL Screenshot](https://github.com/rahul6777-cyber/Hospital-Management-System/raw/main/SQLscreenshort.png)
 
 ## Author
 Rahul
+
+
 
